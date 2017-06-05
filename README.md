@@ -1,2 +1,0 @@
-# shopmvc
-MVC Project
